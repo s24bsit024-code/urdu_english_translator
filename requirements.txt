@@ -1,0 +1,6 @@
+streamlit==1.39.0
+torch
+transformers==4.46.3
+sentencepiece==0.2.0
+sacremoses
+huggingface_hub>=0.26.0
